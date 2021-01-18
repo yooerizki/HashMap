@@ -1,11 +1,12 @@
-## Authentication
+## Manual HashMap 
 
 
-## Folder Structure
-# HashMap
+## Struktur Data ##
+#HasMap#
 
 
->Buat class bernama Auth kemudian tambahkan properti dari object tabelAkun dan tabelSesiLogin
+
+Buat class bernama Auth kemudian tambahkan properti dari object tabelAkun dan tabelSesiLogin
 sehingga kedua object tersebut nantinya akan ada dalam satu class untuk method selengkapnya ada
 penjelasan dibawah berikut.
 
