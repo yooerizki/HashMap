@@ -1,9 +1,8 @@
-## Manual HashMap 
+# Manual HashMap
 
 
-## Struktur Data ##
-#HasMap#
-
+###### Struktur Data ######
+## HashMap Java ##
 
 
 Buat class bernama Auth kemudian tambahkan properti dari object tabelAkun dan tabelSesiLogin
